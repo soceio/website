@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Software y Computación en Estadística e Investigación Operativa"
+  title: "SOCEIO"
   navbar:
     left:
       - href: index.qmd
